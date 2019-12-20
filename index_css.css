@@ -1,0 +1,13 @@
+* { margin: 0px; padding: 20px; }
+body {
+	font-size: 120%;
+  color: white;
+  background:  #7CFC00;
+  text-align: center;
+}
+div {
+  height: 400px;
+  width: 400px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
